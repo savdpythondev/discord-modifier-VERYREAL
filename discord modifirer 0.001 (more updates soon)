@@ -9,3 +9,4 @@ elif a >= r:
 else:
       print('hack failed you almost did it')
 print('error code ' + str(r))
+# if you have error tell me its code in comments!! i will not fix it!!!!!!!!!!
