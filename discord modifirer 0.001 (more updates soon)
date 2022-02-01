@@ -1,4 +1,4 @@
-# discord modifier 0.001
+# discord modifier 0.001 (python ver.)
 a = float(input('write any number to hack discord'))
 b = float(input('hacking.. write number here :'))
 r = a + b
