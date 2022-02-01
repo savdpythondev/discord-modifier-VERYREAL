@@ -9,7 +9,7 @@ drink peace of paper
 become god (yo became god because you eat ice creame and drinked piece of paper)
 tell zeus to help people with water in africa
 !!done!!
-# and if you want to copy this code you will be teleported in africe with no watere!!!
+# and if you post this code on github again you will be teleported in africe with no watere!!!
 # special thanks to @me for doingg great job
 if you like my discord modifierer then give donate me in roblox my nicc is @OnlyParkourRoblox (real)
 
