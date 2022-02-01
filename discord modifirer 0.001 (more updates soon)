@@ -1,0 +1,11 @@
+# discord modifier 0.001
+a = float(input('write any number to hack discord'))
+b = float(input('hacking.. write number here :'))
+r = a + b
+if a == r:
+      print('hack failed')
+elif a >= r:
+      print('hack almost done')
+else:
+      print('hack completed')
+print('error code ' + str(r))
